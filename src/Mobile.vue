@@ -123,8 +123,10 @@ html{
 }
 `],
         currentMarkdown: '',
-        fullMarkdown: `南方
+        fullMarkdown: `自我介绍
 ====
+
+大家好，我是Bess Croft。
 
 位于：湖北武汉。
 
