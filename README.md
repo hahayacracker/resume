@@ -1,3 +1,5 @@
+预览简历：https://www.52bess.com/resume/public/
+
 ### 使用方法
 
 1. 安装Node.js环境：https://nodejs.org/
