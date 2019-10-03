@@ -1,4 +1,4 @@
-预览简历：https://www.52bess.com/resume/public/
+预览简历：https://resume.52bess.com/public/
 
 ### 使用方法
 
