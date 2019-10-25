@@ -2,7 +2,7 @@
 
 ### 使用方法
 
-1. 安装Node.js环境：https://nodejs.org/
+1. 安装Node.js环境：https://nodejs.org/ npm install ig npm@4降级npm报错的话
 2. 安装git: https://git-scm.com/
 3. 执行以下命令：
 
